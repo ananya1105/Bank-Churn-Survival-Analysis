@@ -11,4 +11,5 @@ Concepts that we have used:
 https://www.youtube.com/watch?v=35NWFr53cgA
 6. Binning Age Variable: Google Age bins-[18-24, 25-34, 35-44, 45-54, 55-64, 65]https://support.google.com/google-ads/answer/2580383?hl=en
 7. Encoding categorical values: LabelEncoder, factorize() method https://www.youtube.com/watch?v=dGIkbH8NqKw https://medium.com/@vaibhavshukla182/want-to-know-the-diff-among-pd-factorize-a8591eb3347d
-8. Survival Analysis: 
+8. Survival Analysis: https://www.youtube.com/watch?v=fTX8GghbBPc#action=share
+https://medium.com/analytics-vidhya/survival-analysis-with-python-fae988ab72cd
