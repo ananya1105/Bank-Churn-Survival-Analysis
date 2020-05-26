@@ -8,3 +8,7 @@ Concepts that we have used:
     a. Categorical Target - Categorical Independent Varibale: sns.catplot(kind='count'), sns.barplot(after using groupby along        both categories). https://seaborn.pydata.org/generated/seaborn.catplot.html
     b. Categorical Target - Numerical Independent Variable: sns.violinplot, sns.swarmplot.https://www.youtube.com/watch?v=X0a5HsGcLTY 
 5. Pairplot(between two numerical variables): https://www.youtube.com/watch?v=DXj1b28_RdY  
+https://www.youtube.com/watch?v=35NWFr53cgA
+6. Binning Age Variable: Google Age bins-[18-24, 25-34, 35-44, 45-54, 55-64, 65]https://support.google.com/google-ads/answer/2580383?hl=en
+7. Encoding categorical values: LabelEncoder, factorize() method https://www.youtube.com/watch?v=dGIkbH8NqKw https://medium.com/@vaibhavshukla182/want-to-know-the-diff-among-pd-factorize-a8591eb3347d
+8. Survival Analysis: 
